@@ -64,7 +64,7 @@ const Home:()=>JSX.Element = ():JSX.Element => {
 
    
     return (
-        <div className='container'>
+        <div className='container .container404'>
             <div className="row">
                 <div className="col-12">
                     <SearchFilmForm searchFilm={searchFilm}/>

@@ -18,7 +18,7 @@ const Favoris = () => {
     setFilmFavoris(getFavoriteFilm())
   }
 
-  if (filmFavoris?.length<1)return(<div>Vous n'avez pas de film favoris.....</div>) 
+  if (filmFavoris?.length<1)return(<div className='spinContainer text-center d-flex align-items-center justify-content-center fw-bolder fs-1'>Vous n'avez pas de film favoris pour le moment.....</div>) 
   return (
     <div className='container-fluid'>
     <div className='row d-flex justify-content-around'>
