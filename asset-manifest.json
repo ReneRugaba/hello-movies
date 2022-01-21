@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.be3fb787.css",
-    "main.js": "/static/js/main.5c8021c2.js",
-    "static/js/787.1e43376c.chunk.js": "/static/js/787.1e43376c.chunk.js",
-    "index.html": "/index.html",
-    "main.be3fb787.css.map": "/static/css/main.be3fb787.css.map",
-    "main.5c8021c2.js.map": "/static/js/main.5c8021c2.js.map",
-    "787.1e43376c.chunk.js.map": "/static/js/787.1e43376c.chunk.js.map"
+    "main.css": "/hello-movies/static/css/main.be3fb787.css",
+    "main.js": "/hello-movies/static/js/main.b3ebb33c.js",
+    "static/js/787.1e43376c.chunk.js": "/hello-movies/static/js/787.1e43376c.chunk.js",
+    "index.html": "/hello-movies/index.html",
+    "main.be3fb787.css.map": "/hello-movies/static/css/main.be3fb787.css.map",
+    "main.b3ebb33c.js.map": "/hello-movies/static/js/main.b3ebb33c.js.map",
+    "787.1e43376c.chunk.js.map": "/hello-movies/static/js/787.1e43376c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be3fb787.css",
-    "static/js/main.5c8021c2.js"
+    "static/js/main.b3ebb33c.js"
   ]
 }
