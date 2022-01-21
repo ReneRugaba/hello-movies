@@ -1,0 +1,98 @@
+.link{
+  margin: 1em;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  margin: 1em;
+}
+
+.logo{
+  text-decoration: none;
+}
+
+.navBar{
+  display: flex;
+  justify-content: space-between;
+  padding-inline: 1em;
+  background-color: rgb(9, 9, 167);
+  text-shadow: 1px 1px 1px black;
+  box-shadow: 1px 1px 1px black;
+}
+
+.footer{
+  background-color: rgb(16, 16, 133);
+  text-shadow: 1px 1px 1px black;
+  box-shadow: 1px 1px 1px black;
+  color: rgb(18, 18, 19);
+  display: flex;
+  flex-direction: column;
+  bottom: 0;
+}
+
+.footer h5{
+  text-align: center;
+  text-shadow: 1px 1px 1px rgb(77, 71, 71);
+  color: aliceblue;
+  font-weight: bold;
+  margin-top: 1em;
+  
+}
+
+a i:hover{
+  transform: scale(1.05);
+  cursor: pointer;
+  color: rgb(214, 237, 247);
+  text-shadow: 1px 1px 1px #ccc;
+  font-size: 1.5em;
+}
+
+.navBar h1{
+  color: red;
+  font-weight: bold;
+  
+}
+
+
+.navBar ul{
+  padding-top: 10px;
+}
+
+
+
+.dateCard{
+  color: rgb(218, 33, 33);
+  font-weight: bold;
+}
+
+.cardTitle{
+  font-weight: bold;
+  text-shadow: 1px 0px 1px rgb(48, 40, 40);
+  margin-top: 1em;
+}
+
+.infoDate{
+  font-weight: bold;
+}
+
+.filmCard:hover{
+  transform: scale(1.05);
+}
+
+.pagination li{
+  border: none;
+  padding: 1rem;
+  color: rgb(11, 11, 167);
+  font-weight: bold;
+  text-shadow: 1px 0px 1px black;
+}
+
+.pageContainer{
+  display: flex;
+  justify-content: center;
+}
+
+.selected{
+  border: 1px solid rgb(12, 12, 167);
+  border-radius: 40%;
+  padding: 1em;
+}
