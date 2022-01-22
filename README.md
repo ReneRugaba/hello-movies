@@ -14,7 +14,7 @@
 >functionalities:
 > * Get films datas by page
 > * Put favorite every movie
-> * Remove a movie from the favorite page from the home page and favotite page
+> * Remove favorite movie from the home page and favotite page
 > * we have the possibility to search for any films by name, alphabetic character, as well as by choice of language in select input.
 
 > Have fun !! :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye:
