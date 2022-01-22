@@ -10,4 +10,6 @@
 
 > This project allows
 > to have access to all the films released to date, to be able to choose a favorite list and to be able to see the details of each of them.
+
+> have fun !! :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye:
  
