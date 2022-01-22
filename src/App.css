@@ -6,6 +6,10 @@
   margin: 1em;
 }
 
+.link:hover{
+  color: goldenrod;
+}
+
 body {
   height: 100vh;
 }
@@ -105,4 +109,9 @@ a i:hover{
   padding: 1em;
 }
 
+.textMessage{
+  color: red;
+  font-weight: bolder;
+  margin-top: 0.5em;
+}
 

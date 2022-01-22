@@ -32,7 +32,9 @@ const SearchFilmForm=(props:SearchFilm)=>{
                 <div className="row">
                 <div className="form-group col-sm-12 col-md-12 col-lg-8 mb-2 mt-3">
                     <Field type="text" name='title' placeholder='Caractère ou mot de recherche...' className='form-control border border-primary '/>
-                    <ErrorMessage name='title' />
+                    <div className='textMessage'>
+                        <ErrorMessage  name='title' />
+                    </div>
                 </div>
                 <div className="form-groupe col-sm-12 col-md-12 col-lg-2 mb-2 mt-3">
                     <Field as='select' name='query'  className='form-control border border-primary text-primary'>
