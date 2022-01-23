@@ -27,4 +27,8 @@
 ---
 
 ### Functionnalities:
-> *
+> * Get films datas by page.
+> * Search movies by characters or by title depending on the language chosen.
+> * Add movies to favorite page.
+> * Remove movies from favorite page or from home page.
+> * The possibility of having access to the details of each film by clicking on the photo of it.
