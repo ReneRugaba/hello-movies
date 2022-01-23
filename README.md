@@ -22,7 +22,7 @@
 ---
 ### Objectifs of this app:
 
-> this application aims to allow access to all the films created to date. It allows you to create a list of favorite films and the possibility of having access to 
+> This application aims to allow access to all the films created to date. It allows you to create a list of favorite films and the possibility of having access to 
 > their details.
 ---
 
