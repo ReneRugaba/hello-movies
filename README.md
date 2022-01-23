@@ -6,6 +6,7 @@
 > * [Github pages](https://renerugaba.github.io/hello-movies/)
 > * You can fork my project or pull it(main branch). To execute it, you need `NodeJs` and `npm or yarn`
 > ---
+> First install node_modules
 > ```cli
 >   npm install
 >   or
