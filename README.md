@@ -11,6 +11,12 @@
 >   or
 >   yarn install
 > ```
+> When folder node_modules are created you can run this
+> ```cli
+> npm start
+> or
+> yarn start
+> ``
 
 ---
 
