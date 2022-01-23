@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hello-movies/static/css/main.605aa491.css",
-    "main.js": "/hello-movies/static/js/main.85a058c1.js",
+    "main.js": "/hello-movies/static/js/main.731204c5.js",
     "static/js/787.1e43376c.chunk.js": "/hello-movies/static/js/787.1e43376c.chunk.js",
     "index.html": "/hello-movies/index.html",
     "main.605aa491.css.map": "/hello-movies/static/css/main.605aa491.css.map",
-    "main.85a058c1.js.map": "/hello-movies/static/js/main.85a058c1.js.map",
+    "main.731204c5.js.map": "/hello-movies/static/js/main.731204c5.js.map",
     "787.1e43376c.chunk.js.map": "/hello-movies/static/js/787.1e43376c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.605aa491.css",
-    "static/js/main.85a058c1.js"
+    "static/js/main.731204c5.js"
   ]
 }
