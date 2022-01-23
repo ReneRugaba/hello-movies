@@ -12,12 +12,14 @@
 >   or
 >   yarn install
 > ```
-> When folder node_modules are created you can run this
+> When folder node_modules are created, you can run this
 > ```cli
 > npm start
 > or
 > yarn start
 > ```
-
 ---
+### Objectifs of this app:
 
+> this application aims to allow access to all the films created to date. It allows you to create a list of favorite films and the possibility of having access to 
+> their details.
