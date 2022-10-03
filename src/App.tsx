@@ -13,12 +13,11 @@ function App():JSX.Element {
     <BrowserRouter>
       <NavBar/>
       <Routes>
-        <Route path='/hello-movies'  element={<Home/>}/>
-        <Route path='/hello-movies/favoris' element={<Favoris/>} />
-        <Route path='/hello-movies/details' element={<Details/>} />
+        <Route path='/'  element={<Home/>}/>
+        <Route path='/favoris' element={<Favoris/>} />
+        <Route path='/details' element={<Details/>} />
         <Route path='*' element={<PageNotFound/>}/>
       </Routes>
-      <Footer/>
     </BrowserRouter>
   );
 }

@@ -15,10 +15,10 @@ const NavBar = () => {
     }
   return (
       <nav className='navBar'>
-          <Link className='logo' to='/hello-movies'><h1>HelloMovies</h1></Link>
+          <Link className='logo' to='/'><h1>HelloMovies</h1></Link>
           <ul>
-          {isInFavoris&&(<Link className='link' onClick={returnHome} to="/hello-movies" >Home</Link>)}
-              <Link className='link' onClick={gotToFavoris} to="/hello-movies/favoris">Favoris</Link>
+          {isInFavoris&&(<Link className='link' onClick={returnHome} to="/" >Home</Link>)}
+              <Link className='link' onClick={gotToFavoris} to="/favoris">Favoris</Link>
           </ul>
       </nav>
   )

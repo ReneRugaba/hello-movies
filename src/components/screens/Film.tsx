@@ -48,7 +48,7 @@ const Film: filmType = (props:FilmProps):JSX.Element => {
 
     const gotToDetailsFilm = (film:FilmInterface) => {
         setDetailsFilms(film);
-        hystory("/hello-movies/details")
+        hystory("/details")
     }
 
     const remooveFilmInLocalStorage=()=>{
